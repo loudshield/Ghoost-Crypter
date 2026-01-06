@@ -1,0 +1,2 @@
+# Ghoost-Crypter
+Security tool
