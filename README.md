@@ -1,4 +1,4 @@
-# 👻 GHOOST CRYPTER
+# ☠ GHOOST CRYPTER
 
 **Ghoost Crypter** is a minimal, terminal-based password cryptography tool written in **Python**.
 It allows you to **hash, encrypt, decrypt, and analyze passwords** securely, with a clean CLI interface and local history storage.
@@ -9,11 +9,10 @@ Designed to feel like a real hacking / security utility.
 
 ## ✨ Features
 
-- 🔐 **Password Hashing** (bcrypt – one-way)
+- 🔐 **Password Hashing** (bcrypt non-reversible)
 - 🔒 **Password Encryption & Decryption** (AES / Fernet)
 - 🧠 **Automatic crypto type detection**
 - 🕘 **Local history** of hashed & encrypted entries
-- 🎨 **Colored CLI interface** (Windows compatible)
 - 📦 **Automatic dependency installation**
 - 🔄 **Update checker via GitHub**
 - 🧹 `clear` command to clean terminal
